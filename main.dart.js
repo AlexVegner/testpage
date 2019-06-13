@@ -30949,7 +30949,7 @@ N:function(a){var u=null
 return new S.md(new F.wU("Flutter Demo Home Page",u),"Flutter Demo",X.jH(u,u,C.cF,u),u)}}
 F.wU.prototype={
 N:function(a){var u=null,t=L.I_(this.c,u)
-return new M.na(new E.l1(t,new Q.a3(1/0,56),u),new T.ft(C.a6,u,u,T.MX(H.c([L.I_("Hello, World!",u)],[N.bi]),C.hk),u),u)}};(function aliases(){var u=J.d.prototype
+return new M.na(new E.l1(t,new Q.a3(1/0,56),u),new T.ft(C.a6,u,u,T.MX(H.c([L.I_("Flutter web app!",u)],[N.bi]),C.hk),u),u)}};(function aliases(){var u=J.d.prototype
 u.vf=u.h
 u.ve=u.jt
 u=J.m0.prototype
